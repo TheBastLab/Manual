@@ -3,6 +3,9 @@ Lab Wiki with infos and rules
 
 Download the lab manual here.
 
+[Wiki!](https://github.com/TheBastLab/Manual/wiki)
+
+
 ## Wiki
 This lab wiki is under construction. With your help, it will have all the information you need to get started, including tasks that need to be done upon arrival, day-to-day housekeeping duties, forms and flyers, programming and stats tips, lab protocols, information about accessing the high-performance computing cluster and lab servers and file organization. Edit it when you obtain information that will be useful for others to know!
 
