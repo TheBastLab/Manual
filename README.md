@@ -27,3 +27,12 @@ To write papers, Jens will use GoogleDocs and GoogleSheets and you are encourage
 
 ## Github
 The lab’s GitHub should be used to share code, and data with the world. Only share data after you’ve spoken to Jens (we don’t want to share the data too soon, before you’ve had a chance to look at it thoroughly yourself). When you share code, make sure it’s flawless, because we don’t want to distribute buggy code to the world! Have other lab members check it if possible. Be aware that this is only meant for scripts and small files for analyses and not for uploading (genomic) data. The data can be put in temporary folders that are not synced with github. Ask others how to use github and check the wiki for more information.
+
+
+<nav class="menu" aria-labelledby="menu-heading">
+  <span class="menu-heading" id="menu-heading">Menu heading</span>
+  <a class="menu-item selected" href="#url" aria-current="page">Account</a>
+  <a class="menu-item" href="#url">Profile</a>
+  <a class="menu-item" href="#url">Emails</a>
+  <a class="menu-item" href="#url">Notifications</a>
+</nav>
